@@ -41,7 +41,7 @@ This project implements a 22-layer Convolutional Autoencoder for real-time image
 - **inputs_outputs_binary_images** – Contains binary input and output grayscale image files used for hardware testing.
 - **inputs_outputs_text_files** – Includes corresponding input and output feature maps in text format for verification.
 
-## 📊 Analysis
+## Analysis
 
 The proposed FPGA-accelerated convolutional autoencoder was deployed on the Intel DE1-SoC board and evaluated for resource usage, throughput, and reconstruction quality. Below is a summary of key findings:
 
