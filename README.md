@@ -25,12 +25,12 @@ This project implements a 22-layer Convolutional Autoencoder for real-time image
 
 ### System-Level Hardware-Software Co-Design
 
-![System Architecture](images/fpga_hps_architecture.png)
+![System Architecture](images/FPGA_Board.png)
 *Figure: Interaction between ARM HPS and Verilog-based PEs on the FPGA.*
 
 ### 22-Layer Autoencoder Architecture
 
-![CAE Architecture](images/autoencoder_22_layers.png)
+![CAE Architecture](images/autoencoder_arch.png)
 *Figure: Full encoder-decoder pipeline showing convolution, pooling, and upsampling layers.*
 
 
